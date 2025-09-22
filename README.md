@@ -1,4 +1,4 @@
-"# SHA-256 Implementation in Go
+# SHA-256 Implementation in Go
 
 **hash_sha_256_golang** is a Go implementation of the SHA-256 cryptographic hash function.  
 This project is intended for research, education, and experimentation with cryptographic algorithms.
